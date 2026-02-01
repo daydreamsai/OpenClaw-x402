@@ -1,0 +1,15 @@
+{
+  "name": "@daydreams/openclaw-x402",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "OpenClaw Daydreams Router (x402) auth provider plugin",
+  "openclaw": {
+    "extensions": ["./index.ts"]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daydreamsai/openclaw-x402"
+  },
+  "keywords": ["openclaw", "plugin", "x402", "daydreams", "crypto", "payments"],
+  "license": "MIT"
+}
